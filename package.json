@@ -1,0 +1,24 @@
+{
+  "name": "com.kc.card",
+  "displayName": "KC.Card",
+  "version": "0.1.0",
+  "unity": "2022.3",
+  "author": "KunZhou <450228418@qq.com>",
+  "description": "一个卡牌游戏的包",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com:IASUI/com.kc.card.git"
+  },
+  "keywords": [
+    "kc"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zkyvette425/com.kc.yooasset/issues"
+  },
+  "homepage": "https://github.com/zkyvette425/com.kc.yooasset#readme"
+}
